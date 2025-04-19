@@ -1,3 +1,5 @@
 node_modules
 notes-api-webserver.pem
 perintah-masuk-ke-ssh.txt
+.env
+.prod.env
