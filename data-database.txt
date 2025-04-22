@@ -1,0 +1,7 @@
+Credensial Database
+
+DB instance identifier => notesapps
+Master username => kikiagustin
+Master password => Code1999isart
+Initiak database name => notesapps
+PGHOST => notesapps.crg00i2g0atm.ap-southeast-1.rds.amazonaws.com
