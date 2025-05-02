@@ -3,3 +3,4 @@ notes-api-webserver.pem
 perintah-masuk-ke-ssh.txt
 .env
 .prod.env
+src/api/uploads/file
